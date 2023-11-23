@@ -1,6 +1,6 @@
-### 👋 Hi there✨
+### 👋 Hi there✨🦠
 
-- 🔭 I’m currently working on building C++ and Python Applications.
+- 🔬 I’m currently working on building C++ and Python Applications.
 - 🌱 I’m currently learning how to be a better Software Engineer and Data Scientist.
 - 💬 Ask me about Physics, Software Development, Data Science. 
 - 📫 How to reach me: email me at rabometrics@gmail.com
