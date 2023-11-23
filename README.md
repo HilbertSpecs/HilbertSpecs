@@ -1,4 +1,4 @@
-### 👋Hi there✨🇺🇸
+### 👋 Hi there✨ 🇺🇸
 
 - 🔬 I’m currently working on building C++ and Python Applications.
 - 🌱 I’m currently learning how to be a better Software Engineer and Data Scientist.
