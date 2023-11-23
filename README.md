@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on building C++ and Python Applications.
 - 🌱 I’m currently learning how to be a better Software Engineer.
-- 💬 Ask me about development opportunities?
+- 💬 Ask me about Physics, Software Development, Data Science. 
 - 📫 How to reach me: email me at rabometrics@gmail.com
 - 🎨 Fun fact: 🌎 🌊 💨 🔥 🌌
 
