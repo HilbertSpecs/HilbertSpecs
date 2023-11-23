@@ -6,6 +6,8 @@
 - 📫 How to reach me: email me at rabometrics@gmail.com
 - 🎨 Fun fact: 🌎 🌊 💨 🔥 🌌
 
+![logo2](https://github.com/HilbertSpecs/HilbertSpecs/assets/43871228/108698f8-437f-4d29-b4fe-c80bf288cf8f)
+
 <!--
 **HilbertSpecs/HilbertSpecs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
