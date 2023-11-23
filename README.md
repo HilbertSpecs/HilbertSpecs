@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on building C++ and Python Applications.
+- 🌱 I’m currently learning how to be a better Software Engineer.
+- 💬 Ask me about development opportunities?
+- 📫 How to reach me: email me at rabometrics@gmail.com
+- 🎨 Fun fact: 🌎 🌊 💨 🔥 🌌
+
 <!--
 **HilbertSpecs/HilbertSpecs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
